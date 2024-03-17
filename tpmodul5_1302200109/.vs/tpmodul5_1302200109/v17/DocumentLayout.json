@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\alf4r only\\kuliah\\KPL\\tp mod 5\\tpmodul5_1302200109\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D140DF0B-5E8A-4EC4-BBAF-39F39AB4568F}|tpmodul5_1302200109\\tpmodul5_1302200109.csproj|d:\\alf4r only\\kuliah\\kpl\\tp mod 5\\tpmodul5_1302200109\\tpmodul5_1302200109\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D140DF0B-5E8A-4EC4-BBAF-39F39AB4568F}|tpmodul5_1302200109\\tpmodul5_1302200109.csproj|solutionrelative:tpmodul5_1302200109\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D140DF0B-5E8A-4EC4-BBAF-39F39AB4568F}|tpmodul5_1302200109\\tpmodul5_1302200109.csproj|d:\\alf4r only\\kuliah\\kpl\\tp mod 5\\tpmodul5_1302200109\\tpmodul5_1302200109\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D140DF0B-5E8A-4EC4-BBAF-39F39AB4568F}|tpmodul5_1302200109\\tpmodul5_1302200109.csproj|solutionrelative:tpmodul5_1302200109\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,24 @@
           "Children": [
             {
               "$type": "Bookmark",
-<<<<<<< HEAD
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-=======
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
->>>>>>> generic-class
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-<<<<<<< HEAD
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\alf4r only\\kuliah\\KPL\\tp mod 5\\tpmodul5_1302200109\\tpmodul5_1302200109\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul5_1302200109\\Program.cs",
               "ToolTip": "D:\\alf4r only\\kuliah\\KPL\\tp mod 5\\tpmodul5_1302200109\\tpmodul5_1302200109\\Program.cs",
               "RelativeToolTip": "tpmodul5_1302200109\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
-=======
-              "Title": "DataGeneric.cs",
-              "DocumentMoniker": "D:\\alf4r only\\kuliah\\KPL\\tp mod 5\\tpmodul5_1302200109\\tpmodul5_1302200109\\DataGeneric.cs",
-              "RelativeDocumentMoniker": "tpmodul5_1302200109\\DataGeneric.cs",
-              "ToolTip": "D:\\alf4r only\\kuliah\\KPL\\tp mod 5\\tpmodul5_1302200109\\tpmodul5_1302200109\\DataGeneric.cs",
-              "RelativeToolTip": "tpmodul5_1302200109\\DataGeneric.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAhAAAA",
->>>>>>> generic-class
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T22:35:40.523Z",
+              "WhenOpened": "2024-03-17T22:10:46.123Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
